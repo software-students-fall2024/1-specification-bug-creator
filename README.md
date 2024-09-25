@@ -64,4 +64,4 @@ User Story: "As a customer, I want to see detailed information about the dishes,
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/8NIlyJK6suSgZtHMaDoTsP/Untitled?node-id=0-1&t=pWBOsaqH0K1adjPI-1
