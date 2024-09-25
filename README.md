@@ -6,9 +6,9 @@ A little exercise to get started with the specification phase of the software de
 
 [Bowen Ma](https://github.com/mabowen1013)
 
-Junqi Zhao
+[Junqi Zhao](https://github.com/JunqiZhao888)
 
-Alpha He
+[Alpha He](bilibili.com)
 
 ## Stakeholders
 Stakeholder Interviewed: Nicole Bao (Boss of the nearby restaurant Chef Tan)
