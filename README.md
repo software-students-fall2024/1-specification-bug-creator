@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Junqi Zhao](https://github.com/JunqiZhao888)
 
-[Alpha He](bilibili.com)
+[Alpha He](https://github.com/Alpha-He)
 
 ## Stakeholders
 Stakeholder Interviewed: Nicole Bao (Boss of the nearby restaurant Chef Tan)
@@ -48,7 +48,19 @@ Develop mobile ordering platform that allow people to take order by scaning the 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. Customer Browsing and Ordering Activity Diagram
+This diagram illustrates the process of a customer scanning a QR code, selecting the number of people, and navigating through the app to add items to their cart and make a payment.
+
+User Story: "As a customer, I want to browse and place my order by my phone so that I don't need to wait for a waiter."
+![UML_1](./UML_1.png)
+
+
+2. Customer Viewing Detailed Dish Information and Reviews
+This diagram shows how a customer can select a dish, view detailed information about the ingredients and reviews, and add the item to their cart before proceeding to payment.
+
+User Story: "As a customer, I want to see detailed information about the dishes, including the ingredients and allergens, so I can make the right decision."
+![UML_2](./UML_2.png)
+
 
 ## Clickable Prototype
 
