@@ -38,12 +38,12 @@ Develop mobile ordering platform that allow people to take order by scaning the 
 1. As a customer, I want to browse and place my order by my phone so that I don't need to wait for a waiter.
 2. As a customer, I want to see detailed information about the dishes, including the ingredients and allergens, so I can make right decision.
 3. As a customer, I want to customize my order so that I can personalize the meal to my preference.
-4. As a customer, I want to receive a confirmation of my order on my phone so that I know my order was received by the kitchen.
+4. As a customer, I want to receive a confirmation of my order so that I know my order was received by the kitchen.
 5. As a customer, I want to be able to request additional services through the platform so that I don't need to spend time looking for a waiter.
 6. As a customer, I want to use QR code to order so that there will be no mistake made by waiter. 
 7. As a restaurant manager, I want to use digital menu so that I don't need to hire more worker to handle the peak period.
 8. As a restaurant manager, I want to collect data from the digital menu so that I can optimize the menu and bring more satisfaction to future customers.
-9. As a restaurant manager, I want to update the digital menu in real-time so that customer will not order unavaliable dish.
+9. As a customer, I want restaurant to give me some recommendation so that I will not be overwhelmed and have no idea what to eat.
 10. As a customer, I want to provide a rating and review after my meal so that I can share my feedback with the restaurant and other customers.
 
 ## Activity Diagrams
